@@ -1,0 +1,156 @@
+/* Description: Master CSS file */
+
+/*****************************************
+Table Of Contents:
+- General Styles
+- Navigation
+- Header
+- Video Modal
+- Description
+- Description Modals
+- Chapters
+- Summary
+- Audience
+- Takeaways
+- Details
+- Author
+- About 
+- Testimonials
+- Partners
+- Newsletter
+- Footer
+- Copyright
+- Back To Top Button
+- Extra Pages
+- Media Queries
+******************************************/
+
+/*****************************************
+Colors:
+- Backgrounds, navbar, icons - orange #fc5d66
+- Backgrounds - light gray #f9fafb
+- Buttons - yellow #ffc05a
+- Headings text - black #384653
+- Body text - dark gray #6b747b
+******************************************/
+
+
+/**************************/
+/*     General Styles     */
+/**************************/
+body,
+html {
+  width: 100%;
+	height: 100%;
+}
+
+body, p {
+	color: #6b747b; 
+	font: 400 1rem/1.625rem "Open Sans", sans-serif;
+}
+
+
+
+/**********************/
+/*     Navigation     */
+/**********************/
+
+/* end of dropdown menu */
+
+
+/*****************/
+/*    Header     */
+/*****************/
+
+/***********************/
+/*     Video Modal     */
+/***********************/
+
+/***********************/
+/*     Description     */
+/***********************/
+
+/******************************/
+/*     Description Modals     */
+/******************************/
+
+/********************/
+/*     Chapters     */
+/********************/
+
+/*******************/
+/*     Summary     */
+/*******************/
+
+/********************/
+/*     Audience     */
+/********************/
+
+/*********************/
+/*     Takeaways     */
+/*********************/
+
+/*******************/
+/*     Details     */
+/*******************/
+
+/******************/
+/*     Author     */
+/******************/
+
+/*****************/
+/*     About     */
+/*****************/
+
+/************************/
+/*     Testimonials     */
+/************************/
+
+/********************/
+/*     Partners     */
+/********************/
+
+/**********************/
+/*     Newsletter     */
+/**********************/
+
+/******************/
+/*     Footer     */
+/******************/
+
+/*********************/
+/*     Copyright     */
+/*********************/
+
+/******************************/
+/*     Back To Top Button     */
+/******************************/
+
+/***********************/
+/*     Extra Pages     */
+/***********************/
+/*************************/
+/*     Media Queries     */
+/*************************/	
+/* Min-width 768px */
+@media (min-width: 768px) {
+
+	/* Header */
+
+	/* end of header */
+
+	/* Description */
+
+	/* end of description */
+}
+/* end of min-width 768px */
+
+
+/* Min-width 992px */
+@media (min-width: 992px) {
+}
+/* end of min-width 992px */
+/* Min-width 1200px */
+@media (min-width: 1200px) {
+}
+/* end of min-width 1200px */
